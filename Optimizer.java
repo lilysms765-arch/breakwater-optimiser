@@ -1,3 +1,5 @@
+//Brain of the project,used to calculate the constraints
+
 package com.breakwater.optimization;
 
 import com.breakwater.model.BreakwaterDesign;
