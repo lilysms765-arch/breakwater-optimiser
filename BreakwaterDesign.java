@@ -1,3 +1,4 @@
+//This is used to take data from Hudson Formula and store them
 package com.breakwater.model;
 
 public class BreakwaterDesign {
