@@ -1,3 +1,4 @@
+//Main physics or formula behind our project
 package com.breakwater.physics;
 
 public class HudsonCalculator {
